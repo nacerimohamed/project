@@ -63,9 +63,7 @@ npm run dev
 Étape 5: Connexion
 http://localhost:5173
 
-admin@test.com / admin123
 
-manager@test.com / manager123
 
 📱 SI VOUS UTILISEZ APACHE XAMPP AU LIEU DE PHP ARTISAN SERVE
 Option A: Accès direct via Apache
@@ -103,16 +101,9 @@ API:     ✅ http://localhost:8000/api/cooperatives
 
 React:   ✅ http://localhost:5173
 
-# 5. Connexion
-
-Admin:   ✅ admin@test.com / admin123
-Manager: ✅ manager@test.com / manager123
 
 🎉 FÉLICITATIONS!
 
-✅Admin: admin@test.com / admin123
-
-✅Manager: manager@test.com / manager123
 
 ✅XAMPP: **Apache + MySQL démarrés**
 
